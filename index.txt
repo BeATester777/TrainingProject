@@ -1,0 +1,2 @@
+This is txt file, need to upload it on github from git bash.
+This is git-github session
